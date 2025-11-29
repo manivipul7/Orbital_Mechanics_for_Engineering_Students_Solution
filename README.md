@@ -1,4 +1,4 @@
-# Space-Sciences-and-Astrodynamics
+# Orbital Mechanics for Engineering Students
 
 This repository contains Python and implementations of orbital mechanics and astrodynamics tools. It provides a comprehensive set of functions for simulating orbital motion, performing numerical methods, analyzing spacecraft trajectories, and modeling celestial mechanics. The repository is based on foundational principles and extends concepts found in *Orbital Mechanics for Engineering Students* by Howard D. Curtis.
 
@@ -93,7 +93,7 @@ Space-Sciences-and-Astrodynamics/
   - Consistent angle representation is required for astrodynamics, robotics, and other applications.
   - Improved readability and usability of angular calculations are beneficial in workflows.
 
-![atan2d_0_360_plot.png](![atan2d_0_360_plot.png](plots/atan2d_0_360_plot.png))
+![atan2d_0_360_plot.png]((plots/atan2d_0_360_plot.png))
 
 ---
 
